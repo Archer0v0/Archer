@@ -1,0 +1,134 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:st1 xmlns:o>
+	<HEAD>
+		<TITLE></TITLE>
+		<META content="text/html; charset=gb2312" http-equiv="Content-Type">
+		<LINK rel="stylesheet" type="text/css" href="../style/css.css">
+			<META name="GENERATOR" content="MSHTML 6.00.2900.2769">
+	</HEAD>
+	<BODY background="images/web_bg.gif" leftMargin="0" topMargin="0" bgColor="#60a5ec">
+		<form name="form1" method="post" action="cscjcx.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTkxOTg0MDMyD2QWAgIBD2QWBAIBDxYCHgdWaXNpYmxlZxYCZg9kFgJmD2QWAgIBDw8WAh4EVGV4dAVD5Yid6K+V5oiQ57up5p+l6K+i5byA5pS+5pe26Ze0OjIwMjDlubQwMuaciDIw5pelLS0yMDIw5bm0MDTmnIgwN+aXpWRkAgMPFgIfAGgWAmYPZBYCZg9kFgICAQ88KwALAGRkgCWPbifwlcxTDqQ3VMTrziLkmIk=" />
+</div>
+
+			<DIV align="center">
+				<TABLE style="BORDER-LEFT: #ffffff 1px double; BORDER-TOP: #ffffff 1px double; BORDER-RIGHT: #ffffff 1px double"
+					border="0" cellSpacing="0" cellPadding="0" width="800" background="images/topb.jpg"
+					bgColor="#9e9e8a" height="20">
+					<TBODY>
+						<TR>
+							<TD width="25"></TD>
+							<TD class="top1" align="right"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<TABLE width="800" height="91">
+					<TBODY>
+						<TR>
+							<TD vAlign="middle" width="100%" align="center"><IMG border="0" src="../images/topb.jpg" width="800" height="85"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<TABLE cellSpacing="0" cellPadding="0" width="800" bgColor="#ffffff" height="20">
+					<TBODY>
+						<TR>
+							<TD width="100%" align="right">
+								<TABLE border="0" cellSpacing="1" cellPadding="0" width="100%" bgColor="#ffffff">
+									<TR>
+										<TD class="top3" align="center" bgColor="#60a5ec" width="595">&nbsp;&nbsp;&nbsp;&nbsp;<A class="top3" href="cscjcx.aspx?lx=cj">初试成绩查询</A></TD>
+										<TD class="top3" align="center" bgColor="#60a5ec" width="595">&nbsp;&nbsp;&nbsp;&nbsp;<A class="top3" href="csjcfh.aspx?lx=fh">初试成绩复核申请</A></TD>
+									</TR>
+								</TABLE>
+							</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<TABLE border="0" cellSpacing="0" cellPadding="0" width="800" bgColor="#e9e9e9">
+					<TBODY>
+						<TR>
+							<TD bgColor="#ffffff" width="1"></TD>
+							<TD bgColor="#e9e9e9" width="7">
+							<TD width="18" align="center"><IMG border="0" src="../images/where.gif"></TD>
+							<TD height="20" align="left">当前位置:初试成绩查询</TD>
+							<TD height="20" align="right">&nbsp;
+							</TD>
+							<TD bgColor="#e9e9e9" width="7"></TD>
+							<TD bgColor="#ffffff" width="4"></TD>
+						</TR>
+					</TBODY>
+				</TABLE> <!--主栏开始-->
+				<TABLE height="338" cellSpacing="0" cellPadding="0" width="800" border="0">
+					<TBODY>
+						<TR>
+							<TD width="1" bgColor="#ffffff"></TD>
+							<TD width="8" bgColor="#e9e9e9"></TD>
+							<TD width="2" bgColor="#e9e9e9"></TD>
+							<TD vAlign="top" align="center" bgColor="#ffffff"><!--大右开始-->
+								<table width="98%" height="36" border="0" align="center" cellpadding="0" cellspacing="0">
+									<tr>
+										<td height="1" colspan="3" align="center">
+											<table id="tab2" cellspacing="0" borderColorDark="#ffffff" width="360" align="center" bgcolor="#e0e0e0" borderColorLight="#000000" border="1">
+	<tr>
+		<td>
+														<table style="WIDTH: 419px; HEIGHT: 22px" cellSpacing="0" cellPadding="2" align="center"
+															bgColor="#0099ff" border="0">
+															<tr>
+																<td width="342"><font color="#ffffff">¤提示</font>
+																</td>
+															</tr>
+														</table>
+														<table height="100%" cellSpacing="0" cellPadding="0" width="100%" border="0">
+															<tr>
+																<td vAlign="middle" align="center" height="120"><span id="lblmsg" style="color:Red;font-weight:bold;">初试成绩查询开放时间:2020年02月20日--2020年04月07日</span></td>
+															</tr>
+														</table>
+													</td>
+	</tr>
+</table>
+
+											
+										</td>
+									</tr>
+								</table>
+								<!--大右结束--></TD>
+							<TD width="1" bgColor="#e9e9e9"></TD>
+							<TD width="7" bgColor="#e9e9e9"></TD>
+							<TD width="1" bgColor="#ffffff"></TD>
+						</TR>
+					</TBODY>
+				</TABLE> <!--主栏结束-->
+				<TABLE border="0" cellSpacing="0" cellPadding="0" width="800" height="24">
+					<TBODY>
+						<TR>
+							<TD bgColor="#ffffff" width="1"></TD>
+							<TD bgColor="#e9e9e9" width="7">
+							<TD bgColor="#e9e9e9" height="24" align="center"><FONT color="#000000">‖ </FONT><A onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('index.aspx');"
+									href=""><FONT color="#000000">设为首页</FONT></A> <FONT color="#000000"></FONT><FONT color="#000000">
+									‖ </FONT><A class="top4" title="东南大学研究生院" onclick="window.external.addFavorite('index.aspx','东南大学研究生院')"
+									href="http://网址"><FONT color="#000000">加入收藏</FONT></A> ‖&nbsp;</FONT>
+							</TD>
+							<TD bgColor="#e9e9e9" width="7"></TD>
+							<TD bgColor="#ffffff" width="1"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<TABLE border="0" cellSpacing="0" cellPadding="0" width="800" height="53">
+					<TR>
+						<TD bgColor="#ffffff" height="1" width="803"></TD>
+					</TR>
+					<TR>
+						<TD height="6" width="803"></TD>
+					</TR>
+					<TR>
+						<TD class="bottom" width="803" align="center">
+							<DIV align="center"><FONT color="#000000"></FONT></DIV>
+					<TR>
+						</TD></TR>
+				</TABLE>
+			</DIV>
+		</form>
+	</BODY>
+</HTML>
